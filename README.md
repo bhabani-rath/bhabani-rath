@@ -29,11 +29,10 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhabani-rath&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhabani-rath&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://raw.githubusercontent.com/bhabani-rath/bhabani-rath/main/metrics.svg" alt="metrics" width="100%" />
 </p>
 
 <p align="center">
@@ -50,16 +49,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhabani-rath/bhabani-rath/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="90%" />
-</p>
-
-<br/>
-
-### 🏆 Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhabani-rath&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="trophies" />
-  </a>
 </p>
 
 <br/>
